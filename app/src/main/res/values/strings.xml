@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">UIdlaSzymona</string>
+    <string name="question_label_one">Pytanie 1:</string>
+    <string name="question_label_two">Pytanie 2:</string>
+    <string name="question_label_three">Pytanie 3:</string>
+    <string name="default_answer">Wybierz odpowiedź</string>
+    <string name="default_question">Question:</string>
+
+    <string-array name="answer_list_for_question_one">
+        <item>Adam Pierwszy</item>
+        <item>Adam Drugi</item>
+        <item>Adam Trzeci</item>
+    </string-array>
+    <string-array name="answer_list_for_question_two">
+        <item>Gdańsk</item>
+        <item>Wrocław</item>
+        <item>Warszawa</item>
+    </string-array>
+    <string-array name="answer_list_for_question_three">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Flutter</item>
+    </string-array>
+</resources>
